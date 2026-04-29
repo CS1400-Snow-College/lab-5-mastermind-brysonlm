@@ -1,0 +1,15 @@
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\bin\Debug\net10.0\lab-5-mastermind-brysonlm.exe
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\bin\Debug\net10.0\lab-5-mastermind-brysonlm.deps.json
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\bin\Debug\net10.0\lab-5-mastermind-brysonlm.runtimeconfig.json
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\bin\Debug\net10.0\lab-5-mastermind-brysonlm.dll
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\bin\Debug\net10.0\lab-5-mastermind-brysonlm.pdb
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\obj\Debug\net10.0\lab-5-mastermind-brysonlm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\obj\Debug\net10.0\lab-5-mastermind-brysonlm.AssemblyInfoInputs.cache
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\obj\Debug\net10.0\lab-5-mastermind-brysonlm.AssemblyInfo.cs
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\obj\Debug\net10.0\lab-5-mastermind-brysonlm.csproj.CoreCompileInputs.cache
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\obj\Debug\net10.0\lab-5-mastermind-brysonlm.sourcelink.json
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\obj\Debug\net10.0\lab-5-mastermind-brysonlm.dll
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\obj\Debug\net10.0\refint\lab-5-mastermind-brysonlm.dll
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\obj\Debug\net10.0\lab-5-mastermind-brysonlm.pdb
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\obj\Debug\net10.0\lab-5-mastermind-brysonlm.genruntimeconfig.cache
+C:\Users\leonb\my-code-dir\lab-5-mastermind-brysonlm\obj\Debug\net10.0\ref\lab-5-mastermind-brysonlm.dll
